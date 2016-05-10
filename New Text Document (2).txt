@@ -1,0 +1,2 @@
+https://www.kernel.org/pub/software/scm/git/docs/git-log.html
+https://git-scm.com/book/tr/v2/Git-Basics-Viewing-the-Commit-History
